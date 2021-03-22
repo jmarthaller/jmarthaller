@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jacob
+### Hey there, I'm Jacob 👋 
 
 Full Stack Software Engineer educated primarily in Javascript and Ruby on Rails. Professional background in legal services with experience working on the non-technical side of startups. 
 
