@@ -27,6 +27,8 @@ Strong research skills with the ability to communicate complex topics in accessi
 <br />
 &emsp;
 
+
+
 ## Get in Touch 
 <p>
   <a href="https://www.linkedin.com/in/jacob-marthaller/" target="blank"><img align="left" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" height="30" width="30" /></a>
