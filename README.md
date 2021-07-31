@@ -1,4 +1,4 @@
-### Hey there, I'm Jacob 
+### Hi, I'm Jacob! 
 
 Full Stack Software Engineer working primarily in React.js and Ruby on Rails. My professional background is in legal services with experience working on the non-technical side of startups. 
 
