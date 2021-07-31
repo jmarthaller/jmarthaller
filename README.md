@@ -26,7 +26,7 @@ Strong research skills with the ability to communicate complex topics in accessi
 
 <br />
 &emsp;
-
+<br />
 
 
 ## Get in Touch 
