@@ -21,7 +21,6 @@ Strong research skills with the ability to communicate complex topics in accessi
   <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/heroku-original-wordmark.svg?size=128&color=currentColor" alt="heroku" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" alt="mongodb" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/redis-original.svg?size=128&color=currentColor" alt="redis" align="left" width="40" height="40"/>
 </p>
 
 <br />
