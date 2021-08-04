@@ -31,7 +31,7 @@ Strong research skills with the ability to communicate complex topics in accessi
 ## Get in Touch 
 <p>
   <a href="https://www.linkedin.com/in/jacob-marthaller/" target="blank"><img align="left" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" height="30" width="30" /></a>
-  <a href="https://marthaller-jr.medium.com/" target="blank"><img align="left" src="http://logok.org/wp-content/uploads/2020/10/Medium-logo-2020-1836x1352.png"  height="30" width="30" /></a>
+  <a href="https://marthaller-jr.medium.com/" target="blank"><img align="left" src="http://logok.org/wp-content/uploads/2020/10/Medium-logo-2020-1536x1152.png"  height="30" width="50" /></a>
  </p>
 <!--  http://logok.org/wp-content/uploads/2020/10/Medium-logo-2020-1536x1152.png -->
 <!--  https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg -->
