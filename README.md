@@ -23,7 +23,14 @@ Strong research skills with the ability to communicate complex topics in accessi
   <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" alt="mongodb" align="left" width="40" height="40"/>
   <br />
   <br />
-  <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" alt="mongodb" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor" alt="bootstrap" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" alt="github" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" alt="mysql" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/redis-original.svg?size=128&color=currentColor" alt="redis" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/sourcetree-original-wordmark.svg?size=128&color=currentColor" alt="sourcetree" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" alt="vscode" align="left" width="40" height="40"/>
 </p>
 
 <br />
