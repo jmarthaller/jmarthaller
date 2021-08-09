@@ -33,7 +33,7 @@ Strong research skills with the ability to communicate complex topics in accessi
   <img src="https://icongr.am/devicon/sourcetree-original-wordmark.svg?size=128&color=currentColor" alt="sourcetree" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" alt="vscode" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor" alt="vim" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" alt="express" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/yarn-original.svg?size=128&color=currentColor" alt="yarn" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" alt="npm" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/babel-plain.svg?size=128&color=currentColor" alt="babel" align="left" width="40" height="40"/>
