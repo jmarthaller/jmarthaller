@@ -12,17 +12,19 @@ Strong research skills with the ability to communicate complex topics in accessi
   <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="js" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor" alt="ruby" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" alt="rails" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" alt="node" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/jquery-original.svg?size=128&color=currentColor" alt="jquery" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" alt="mongodb" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" alt="rails" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" alt="docker" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" align="left" width="40" height="40"/>
+  
+  <br />
+  <br />
   <img src="https://icongr.am/devicon/heroku-original-wordmark.svg?size=128&color=currentColor" alt="heroku" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" alt="mongodb" align="left" width="40" height="40"/>
-  <br />
-  <br />
   <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor" alt="bootstrap" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" alt="github" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" alt="mysql" align="left" width="40" height="40"/>
@@ -31,6 +33,10 @@ Strong research skills with the ability to communicate complex topics in accessi
   <img src="https://icongr.am/devicon/sourcetree-original-wordmark.svg?size=128&color=currentColor" alt="sourcetree" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" alt="vscode" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor" alt="vim" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/yarn-original.svg?size=128&color=currentColor" alt="yarn" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" alt="npm" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/babel-plain.svg?size=128&color=currentColor" alt="babel" align="left" width="40" height="40"/>
 </p>
 
 <br />
