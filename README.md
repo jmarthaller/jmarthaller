@@ -33,7 +33,7 @@ Strong research skills with the ability to communicate complex topics in accessi
   <img src="https://icongr.am/devicon/sourcetree-original-wordmark.svg?size=128&color=currentColor" alt="sourcetree" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" align="left" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" alt="express" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor" alt="express" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/yarn-original.svg?size=128&color=currentColor" alt="yarn" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" alt="npm" align="left" width="40" height="40"/>
 </p>
