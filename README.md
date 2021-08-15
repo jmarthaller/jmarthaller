@@ -26,11 +26,9 @@ Strong research skills with the ability to communicate complex topics in accessi
   <br />
   <img src="https://icongr.am/devicon/heroku-original-wordmark.svg?size=128&color=currentColor" alt="heroku" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=currentColor" alt="bootstrap" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" alt="github" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" alt="mysql" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/redis-original.svg?size=128&color=currentColor" alt="redis" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/sourcetree-original-wordmark.svg?size=128&color=currentColor" alt="sourcetree" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" align="left" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor" alt="express" align="left" width="40" height="40"/>
