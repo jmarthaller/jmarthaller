@@ -1,8 +1,8 @@
 ### Hi, I'm Jacob! 
 
-I'm a Full Stack Software Engineer working primarily in JavaScript, React.js, and Ruby on Rails. My professional background is in legal services with experience working on the non-technical side of startups. 
+I'm a Full Stack Software Engineer working primarily in JavaScript, React, and Ruby on Rails. My professional background includes working in small startups and well established companies, contributing to projects across the stack.
 
-Strong research skills with the ability to communicate complex topics in accessible ways. Diverse academic interests provide novel ways to approach difficult problems. Motivated to advance my skills as a developer and build amazing software. 
+With advanced academic experience in the humanities, I have strong research skills with the ability to make complex topics accessible. Prior professional experience in the legal services industry provides insight on consumer trends. I'm motivated to build software that provides value for users and develop my own skills alongside other lifelong learners. 
 
 ## Skills 
 
