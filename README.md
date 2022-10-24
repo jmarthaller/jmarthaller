@@ -42,7 +42,7 @@ With advanced academic experience in the humanities, I have strong research skil
 ## Get in Touch 
 <p>
   <a href="https://www.linkedin.com/in/jacob-marthaller/" target="blank"><img align="left" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" height="30" width="30" /></a>
-  <a href="https://marthaller-jr.medium.com/" target="blank"><img align="left" src="http://logok.org/wp-content/uploads/2020/10/Medium-logo-2020-1536x1152.png"  height="35" width="45" /></a>
+  <a href="https://marthaller-jr.medium.com/" target="blank"><img align="left" src="https://icongr.am/fontawesome/medium.svg?size=30&color=currentColor" height="35" width="45" /></a>
  </p>
 
  <br />
