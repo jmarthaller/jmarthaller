@@ -1,6 +1,6 @@
 ### Hi, I'm Jacob! 
 
-I'm a Full Stack Software Engineer working primarily in JavaScript, React, and Ruby. My professional background includes working in small startups and well established companies, contributing to projects across the stack.
+I'm a Full Stack Software Engineer working primarily in JavaScript and Ruby. My professional background includes working in small startups and well established companies, contributing to projects across the stack.
 
 With advanced academic experience in the humanities, I have strong research skills with the ability to make complex topics accessible. Prior professional experience in the legal services industry provides insight on consumer trends. I'm motivated to build software that provides value for users and develop my own skills alongside other lifelong learners. 
 
