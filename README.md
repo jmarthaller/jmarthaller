@@ -10,6 +10,7 @@ With advanced academic experience in the humanities, I have strong research skil
   <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="js" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="csharp" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" alt="node" align="left" width="40" height="40"/>
