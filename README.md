@@ -13,6 +13,7 @@ With advanced academic experience in the humanities, I have strong research skil
   <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="csharp" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" alt="dotnet" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" align="left" width="40" height="40"/>
+   <img src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" alt="vue" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" alt="node" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/jquery-original.svg?size=128&color=currentColor" alt="jquery" align="left" width="40" height="40"/>
@@ -34,6 +35,8 @@ With advanced academic experience in the humanities, I have strong research skil
   <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="webpack" align="left" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor" alt="express" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/sourcetree-original.svg?size=128&color=currentColor" alt="sourcetree" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" alt="github" align="left" width="40" height="40"/>
 </p>
 
 <br />
