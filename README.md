@@ -1,6 +1,6 @@
 ### Hi, I'm Jacob! 
 
-I'm a Full Stack Software Engineer working primarily in JavaScript, Ruby, and C#. My professional background includes working in small startups and well established companies, contributing to projects across the stack.
+I'm a Full Stack Software Engineer working primarily in JavaScript, Ruby, and C#. My professional background includes working in small startups and well established companies, contributing to high-impact projects across the stack.
 
 With advanced academic experience in the humanities, I have strong communication skills with the ability to make complex topics accessible. I'm motivated to build software that provides value for users and develop my own skills alongside other lifelong learners. 
 
