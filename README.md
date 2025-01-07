@@ -48,7 +48,7 @@ With significant experience as a freelance writer, I have strong communication s
 ## Get in Touch 
 <p>
   <a href="https://www.linkedin.com/in/jacob-marthaller/" target="blank"><img align="left" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" height="30" width="30" /></a>
-  <a href="https://jacobmarthaller.dev/" target="blank"><img align="left" src="https://icongr.am/fontawesome/child.svg?size=128&color=currentColor" height="35" width="45" /></a>
+  <a href="https://jacobmarthaller.dev/" target="blank"><img align="left" src="https://icongr.am/material/human-greeting.svg?size=128&color=currentColor" height="35" width="45" /></a>
  </p>
 
  <br />
