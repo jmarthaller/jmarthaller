@@ -7,20 +7,20 @@ With significant experience as a freelance writer, I have strong communication s
 ## Skills 
 
 <p align="left">
-  <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="js" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" alt="node" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="csharp" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" alt="dotnet" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor" alt="ruby" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" alt="npm" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" alt="vue" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor" alt="express" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" alt="mongodb" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="csharp" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor" alt="dotnet" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor" alt="ruby" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" alt="rails" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" align="left" width="40" height="40"/>
   
